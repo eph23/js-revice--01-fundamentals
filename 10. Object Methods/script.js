@@ -2,7 +2,7 @@
 
 const eph = {
     firstName: "Eph",
-    lastName: "Sangma",
+    lastName: "S",
     birthYear: 1988,
     job: "Web Dev",
     friends: ["Michael", "Steven", "Bob"],
